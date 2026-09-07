@@ -4,7 +4,7 @@ dist/
 *.local
 example-only-reference/
 gemini-watermark-cleaned.zip
-img-1.png
-img-2.png
-img-3.png
-img-4.png
+/img-1.png
+/img-2.png
+/img-3.png
+/img-4.png
