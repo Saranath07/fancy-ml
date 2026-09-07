@@ -1,0 +1,10 @@
+This is not what I want.. every text shud be latex font only.. and shud be visible.. there shud be no text moslty.. 
+1.  have 5 movies and people choose.
+2. 100 movie pictures thats it.. nothing else
+3. choose random 2 and play.. literally based on choice, the tournament will run.. audience get to choose they will be posted random 2 movies.. and winner moves forward and we get the winner.. and we show how the touernament worked
+4. I will generate AI pictures of decisions.. or technically like a distribution prior and then give a problem say should I go to college today (again will geenrate a picture) what decision shdu I make.. based on my prior knowledge and what happened in the past (my liklihood) i will hace set of decisions in my min which is posterior and i will choose an action.. write this in plain english.. and then convert it to math 
+5. Now the story time.. agian I will generate some AI pictures of a boy and girl a.. there will be 4 pictures.. inital love, their understanding.. girl admitted to standform university for her masters.. and now in a dilemma what to choose..
+6. Now the comic style picture continues.. a god gives her boon.. (no writings I will only tell) both the ways and below once I click next it shoul d display the dynamic programming equation.. i will exlain the other parts.. u need not to worry i will say it is analogy and all
+7. write the entire frame work mathematically.. take a prior, get the liklihood, get the posterior and then update the posterior based on the action, and for all actions compute this dynamic programming equation (as computers can look through though) and thake the action that gets the maximum score.. 
+8. Tell that common concepts like bayes rule, maximum liklihood, dp is used for solving this problem.. 
+9. Actual usage, again display chat gpt responses, instagram reel algos (some reel) pictoily by animations telling real life it is used.. 
